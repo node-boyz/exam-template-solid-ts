@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "tsx src/index.ts",
     "watch": "tsx watch src/index.ts",
-    "build": "tsc",
+    "build": "tsc"
   },
   "type": "module",
   "keywords": [],
